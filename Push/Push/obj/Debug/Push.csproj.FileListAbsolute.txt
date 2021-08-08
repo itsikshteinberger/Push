@@ -1,0 +1,100 @@
+E:\Hey1\Push\Push\bin\Debug\Push.exe.config
+E:\Hey1\Push\Push\bin\Debug\Push.exe
+E:\Hey1\Push\Push\bin\Debug\Push.pdb
+E:\Hey1\Push\Push\obj\Debug\MainWindow.g.cs
+E:\Hey1\Push\Push\obj\Debug\App.g.cs
+E:\Hey1\Push\Push\obj\Debug\Push_MarkupCompile.cache
+E:\Hey1\Push\Push\obj\Debug\Push_MarkupCompile.lref
+E:\Hey1\Push\Push\obj\Debug\MainWindow.baml
+E:\Hey1\Push\Push\obj\Debug\Push.g.resources
+E:\Hey1\Push\Push\obj\Debug\Push.Properties.Resources.resources
+E:\Hey1\Push\Push\obj\Debug\Push.csproj.GenerateResource.Cache
+E:\Hey1\Push\Push\obj\Debug\Push.exe
+E:\Hey1\Push\Push\obj\Debug\Push.pdb
+E:\Hey1\Push\Push\obj\Debug\GamePush.g.cs
+E:\Hey1\Push\Push\obj\Debug\GamePush.baml
+F:\Push\Push\bin\Debug\Push.exe.config
+F:\Push\Push\obj\Debug\Push.exe
+F:\Push\Push\obj\Debug\Push.pdb
+F:\Push\Push\bin\Debug\Push.exe
+F:\Push\Push\bin\Debug\Push.pdb
+F:\Push\Push\obj\Debug\GamePush.g.cs
+F:\Push\Push\obj\Debug\MainWindow.g.cs
+F:\Push\Push\obj\Debug\App.g.cs
+F:\Push\Push\obj\Debug\Push_MarkupCompile.cache
+F:\Push\Push\obj\Debug\Push_MarkupCompile.lref
+F:\Push\Push\obj\Debug\GamePush.baml
+F:\Push\Push\obj\Debug\MainWindow.baml
+F:\Push\Push\obj\Debug\Push.g.resources
+F:\Push\Push\obj\Debug\Push.Properties.Resources.resources
+F:\Push\Push\obj\Debug\Push.csproj.GenerateResource.Cache
+D:\User Files\Desktop\Cproject\Push\Push\bin\Debug\Push.exe.config
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.exe
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.pdb
+D:\User Files\Desktop\Cproject\Push\Push\bin\Debug\Push.exe
+D:\User Files\Desktop\Cproject\Push\Push\bin\Debug\Push.pdb
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.csprojResolveAssemblyReference.cache
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\GamePush.g.cs
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\MainWindow.g.cs
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\App.g.cs
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push_MarkupCompile.cache
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push_MarkupCompile.lref
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\GamePush.baml
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\MainWindow.baml
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.g.resources
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.Properties.Resources.resources
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Push.csproj.GenerateResource.Cache
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Instructions1.g.cs
+D:\User Files\Desktop\Cproject\Push\Push\obj\Debug\Instructions1.baml
+F:\Push\Push\obj\Debug\Instructions1.g.cs
+F:\Push\Push\obj\Debug\Instructions1.baml
+E:\Hey1\Push\Push\obj\Debug\Instructions1.g.cs
+E:\Hey1\Push\Push\obj\Debug\Instructions1.baml
+E:\Hey1\Push\Push\obj\Debug\Push.csprojResolveAssemblyReference.cache
+E:\Hey1\Push\Push\obj\Debug\Instructions2.g.cs
+E:\Hey1\Push\Push\obj\Debug\Instructions2.baml
+F:\Push\Push\obj\Debug\Instructions2.g.cs
+F:\Push\Push\obj\Debug\Instructions2.baml
+F:\pushProject\Push\bin\Debug\Push.exe.config
+F:\pushProject\Push\obj\Debug\Push.exe
+F:\pushProject\Push\obj\Debug\Push.pdb
+F:\Push\Push\obj\Debug\About.g.cs
+F:\Push\Push\obj\Debug\OPENscreen.g.cs
+F:\Push\Push\obj\Debug\About.baml
+F:\Push\Push\obj\Debug\OPENscreen.baml
+G:\Push\Push\bin\Debug\Push.exe.config
+G:\Push\Push\obj\Debug\Push.exe
+G:\Push\Push\obj\Debug\Push.pdb
+F:\Push\Push\obj\Debug\App.baml
+F:\Push\Push\obj\Debug\ModelsDictionary.baml
+F:\Push\Push\obj\Debug\Push.csprojResolveAssemblyReference.cache
+E:\Push\Push\bin\Debug\Push.exe.config
+E:\Push\Push\obj\Debug\Push.exe
+E:\Push\Push\obj\Debug\Push.pdb
+C:\Users\User\Desktop\Push\Push\bin\Debug\Push.exe.config
+C:\Users\User\Desktop\Push\Push\bin\Debug\Push.exe
+C:\Users\User\Desktop\Push\Push\bin\Debug\Push.pdb
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Push\Push\obj\Debug\about.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\GamePush.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\Instructions1.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\Instructions2.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\OPENscreen.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push_MarkupCompile.cache
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push_MarkupCompile.lref
+C:\Users\User\Desktop\Push\Push\obj\Debug\App.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\about.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\GamePush.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\Instructions1.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\Instructions2.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\ModelsDictionary.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\OPENscreen.baml
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.g.resources
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.Properties.Resources.resources
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.exe
+C:\Users\User\Desktop\Push\Push\obj\Debug\Push.pdb
