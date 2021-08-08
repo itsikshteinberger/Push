@@ -3,7 +3,7 @@
 <br/><br/>
 __My first 3d game ever!__<br/>
 A fun puzzle game I made in high school. <br/>
-The goal is to push the yellow square off the surface with the help of the red square (More detailed instructions will appear in the game run). <br/>
+The goal is to push the yellow squares off the surface with the help of the red square (More detailed instructions will appear in the game run). <br/>
 ## installation
 Just clone the code
 ```bash
