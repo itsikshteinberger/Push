@@ -1,4 +1,4 @@
-# <img src="https://github.com/itsikshteinberger/Push/blob/main/Push/Push/Images/logo.png" alt="drawing" height ="80" width="200"/>
+# <img src="https://github.com/itsikshteinberger/Push/blob/main/Push/Push/Images/logo.png" alt="drawing" height ="60" width="200"/>
 <br/>![](https://github.com/itsikshteinberger/Push/blob/main/Push/Push/Images/screen.jpg)
 <br/><br/>
 __My first 3d game ever!__<br/>
